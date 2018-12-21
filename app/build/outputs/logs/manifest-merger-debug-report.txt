@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/70fea8b758b22f2bb144c7c65f092e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bde4d204b6c9e93c735ee94e3de1a693/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59cf30f2853a1ca0996fbb4909419ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ab0df92145595a03f2effdceffb05c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f2e40f16eb2a41fbde01b67767d9ceb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ab1777029fe65196fc0595fad9e13aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d91f483064f230e2356231e7688d1059/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/94b58ce79d5a40d516f06a8cfca73874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0882132f5e7e401b33b245888064f764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aa6e4ad1311249fa4bbb478977bd400f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f734857619eb3af42f967c5f042fe469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f874fb32523db6e3c919b7b8abd4f592/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7bb5ada9050938397493ccbef846ee82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/270e9059e5c51448d0c2f6ae43e95f00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a23bf2e969e4bd42e98bf6dc1fff4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/708531035dedd1e3654a02cbb76d19d3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b1ba2c8fdaa6897597d95b7dabb251d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/606132ac1aa6f19e07442170108bac4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6406236c65a1a487512568590d2f6eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7fddd71b242171700e368176baa6a1c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f3e7b4ac0f4599e06ec8bba59e93ddc4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/414774870a857e4e2474a2def7854a56/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa3cafe5e540fd8c57a7f9f0c0d47eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd814c65d85274c02ea6e11d3d119152/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b26f7506bdb5c4385434c8131c163675/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f163ef3012002339d3d1662e1301623c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:3:3-47
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bde4d204b6c9e93c735ee94e3de1a693/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bde4d204b6c9e93c735ee94e3de1a693/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/708531035dedd1e3654a02cbb76d19d3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/708531035dedd1e3654a02cbb76d19d3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:10:5-31
+	android:label
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:8:5-37
+	android:roundIcon
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:9:5-50
+	android:icon
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:7:5-39
+	android:allowBackup
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:6:5-31
+	android:theme
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:11:5-36
+activity#com.raywenderlich.android.currency.ConverterActivity
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:12:15-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/70fea8b758b22f2bb144c7c65f092e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/70fea8b758b22f2bb144c7c65f092e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bde4d204b6c9e93c735ee94e3de1a693/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bde4d204b6c9e93c735ee94e3de1a693/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59cf30f2853a1ca0996fbb4909419ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59cf30f2853a1ca0996fbb4909419ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ab0df92145595a03f2effdceffb05c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ab0df92145595a03f2effdceffb05c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f2e40f16eb2a41fbde01b67767d9ceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f2e40f16eb2a41fbde01b67767d9ceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ab1777029fe65196fc0595fad9e13aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ab1777029fe65196fc0595fad9e13aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d91f483064f230e2356231e7688d1059/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d91f483064f230e2356231e7688d1059/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/94b58ce79d5a40d516f06a8cfca73874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/94b58ce79d5a40d516f06a8cfca73874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0882132f5e7e401b33b245888064f764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0882132f5e7e401b33b245888064f764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aa6e4ad1311249fa4bbb478977bd400f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aa6e4ad1311249fa4bbb478977bd400f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f734857619eb3af42f967c5f042fe469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f734857619eb3af42f967c5f042fe469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f874fb32523db6e3c919b7b8abd4f592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f874fb32523db6e3c919b7b8abd4f592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7bb5ada9050938397493ccbef846ee82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7bb5ada9050938397493ccbef846ee82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/270e9059e5c51448d0c2f6ae43e95f00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/270e9059e5c51448d0c2f6ae43e95f00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a23bf2e969e4bd42e98bf6dc1fff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a23bf2e969e4bd42e98bf6dc1fff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2036c5027b6c582ecf995abba3146426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/708531035dedd1e3654a02cbb76d19d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/708531035dedd1e3654a02cbb76d19d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b1ba2c8fdaa6897597d95b7dabb251d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b1ba2c8fdaa6897597d95b7dabb251d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/606132ac1aa6f19e07442170108bac4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/606132ac1aa6f19e07442170108bac4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6406236c65a1a487512568590d2f6eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6406236c65a1a487512568590d2f6eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7fddd71b242171700e368176baa6a1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7fddd71b242171700e368176baa6a1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f3e7b4ac0f4599e06ec8bba59e93ddc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f3e7b4ac0f4599e06ec8bba59e93ddc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/414774870a857e4e2474a2def7854a56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/414774870a857e4e2474a2def7854a56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa3cafe5e540fd8c57a7f9f0c0d47eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa3cafe5e540fd8c57a7f9f0c0d47eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd814c65d85274c02ea6e11d3d119152/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd814c65d85274c02ea6e11d3d119152/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b26f7506bdb5c4385434c8131c163675/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b26f7506bdb5c4385434c8131c163675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f163ef3012002339d3d1662e1301623c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/khinthirisoe/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f163ef3012002339d3d1662e1301623c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khinthirisoe/Downloads/KotlinSealedClasses/currency-starter/app/src/main/AndroidManifest.xml
